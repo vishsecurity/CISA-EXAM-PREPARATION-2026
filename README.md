@@ -1,7 +1,3 @@
-Here are the rephrased, high-yield study notes built directly from your text file, now completely updated to include the **Feasibility Study** and **Requirements Definition** concepts.
-
-The notes are formatted as simple, clean text so you can easily copy and paste them into a `.txt` file for your final review.
-
 ---
 
 CISA EXAM STUDY NOTES - HIGH-YIELD FINAL REVIEW
