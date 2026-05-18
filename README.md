@@ -1,7 +1,3 @@
-Below is a clean, fully compiled, and formatted text-based study guide containing all the CISA concepts, question-bank logic, and hierarchies discussed throughout our conversation. You can copy and paste this text directly into your own notes document to use as your final review sheet before your exam next week.
-
----
-
 # COMPLETE CISA HIGH-YIELD STUDY COMPILATION
 
 ### Final Review Guide: Focused on Question Bank Pitfalls & ISACA Exam Logic
