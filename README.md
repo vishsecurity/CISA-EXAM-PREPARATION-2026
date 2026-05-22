@@ -582,3 +582,36 @@ If the question mentions implementation failure, think about defect management a
 If the question mentions greatest concern, think about broad business impact rather than operational inconvenience.
 
 If the question mentions the auditor role, remember that auditors validate and review — they do not implement or manage controls.
+
+## **RAPID KEYWORD MEMORY SHEET**
+third party → right-to-audit
+cloud → ownership of assets
+SaaS → customer configuration responsibility
+BIA → foundation of DRP
+RTO/RPO → derived from BIA
+identical RTOs → failed prioritization
+Agile → user interaction
+DevOps → deployment monitoring
+UAT → validates business needs
+QA → meet business requirements
+KPI → clearly defined
+security maturity → remediation time
+job scheduling → unauthorized batch jobs
+EUC → policy first
+DLP → exceptions workflow first
+fraud → preserve evidence
+forensics → write blocker
+API security → penetration testing
+Zero Trust → continuous verification
+IDS → behind firewall
+IoT → network discovery
+BYOD → antivirus
+duplicate accounts → review activity
+service account → disable interactive login
+migration integrity → hashes
+normalization → remove redundancy
+source code → check-in/check-out
+vendor risk → due diligence
+benchmarking → compare with peers
+digital signature → authenticity + integrity
+stolen laptop → disk encryption
